@@ -1,3 +1,4 @@
 # ToyProjectWithKeras
-Keras toy projects
+Keras toy projects.
+
 Person use only.
